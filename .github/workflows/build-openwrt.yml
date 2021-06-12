@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt-750gr3
+name: Build OpenWrt-750gr3-lede-helloworld
 
 on:
   repository_dispatch:
